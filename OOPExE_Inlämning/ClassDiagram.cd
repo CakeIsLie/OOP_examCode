@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Garage" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAAAAACAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAgAAACwAEAAAEAAIIAEAGBAAAAAEQAAAICBAAAgA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bike">
+    <Position X="7" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACAAgAEAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotorBike">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAEAAAAAAAIAAAgAAAAAQAAAAAAAAAIAAA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAQEAAAAAAAAAAAEAAABAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAEAAAAAAAAAEAAAAAgAAAAAAAAAEAAAgA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truck">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQAAEAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OOPExE_Inlämning.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
